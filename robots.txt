@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /index-work.html
 
 
 Sitemap: https://machine-learning.taliferro.com/sitemap.xml
